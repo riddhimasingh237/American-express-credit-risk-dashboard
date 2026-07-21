@@ -101,8 +101,7 @@ The **Credit Risk & Default Analysis** dashboard focuses on identifying customer
 
 This dashboard helps financial institutions identify high-risk customers and understand the factors contributing to credit default. By analyzing customer behavior across multiple dimensions, decision-makers can strengthen credit approval processes, prioritize portfolio monitoring, optimize credit limit strategies, and implement targeted risk mitigation measures to reduce potential financial losses.
 
-![image Alt]
-(https://github.com/riddhimasingh237/American-express-credit-risk-dashboard/blob/main/Risk%20analysis.png)
+![image Alt](https://github.com/riddhimasingh237/American-express-credit-risk-dashboard/blob/main/Risk%20analysis.png)
 
 ## ✅ Conclusion
 This project demonstrates how **SQL, Power BI, Power Query, and DAX** can be used together to transform raw customer data into meaningful business insights for credit risk analysis. By analyzing customer demographics, financial behavior, credit history, and repayment patterns, the dashboard identifies the key factors associated with credit default.
