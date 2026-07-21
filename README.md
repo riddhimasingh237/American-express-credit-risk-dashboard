@@ -76,7 +76,40 @@ The **Customer Portfolio Overview** dashboard provides a comprehensive summary o
 
 This dashboard provides an overall understanding of the customer portfolio by highlighting customer demographics, financial capacity, creditworthiness, and ownership patterns. These insights help financial institutions identify customer segments, understand portfolio composition, and establish a strong foundation for further credit risk analysis.
 
+![image Alt]https://github.com/riddhimasingh237/American-express-credit-risk-dashboard/blob/main/Overview%20(2).png
+
+## 📊 Dashboard – Page 2: Credit Risk & Default Analysis
+
+The **Credit Risk & Default Analysis** dashboard focuses on identifying customer segments with a higher likelihood of default. It analyzes historical repayment behavior, credit utilization, income levels, and creditworthiness to uncover the key drivers of credit risk. The insights from this dashboard support proactive risk management and informed lending decisions.
+
+### Key Performance Indicators (KPIs)
+
+* Overall Default Rate
+* High-Risk Customers
+* Average Credit Utilization
+* Average Debt-to-Income Ratio
+
+### Visualizations
+
+* **Default Rate by Income Group** – Compares recent default rates across different income segments.
+* **Default Rate by Credit Score Band** – Highlights how default risk changes with credit score categories.
+* **Default Rate by Occupation** – Identifies occupations associated with higher default rates.
+* **Previous Defaults vs Recent Default Rate** – Evaluates whether customers with previous defaults are more likely to default again.
+* **Risk Segment Distribution** – Shows the proportion of customers classified as Low, Medium, and High Risk.
+* **Top High-Risk Customers** – Lists customers requiring immediate monitoring based on risk indicators.
+
+### Business Value
+
+This dashboard helps financial institutions identify high-risk customers and understand the factors contributing to credit default. By analyzing customer behavior across multiple dimensions, decision-makers can strengthen credit approval processes, prioritize portfolio monitoring, optimize credit limit strategies, and implement targeted risk mitigation measures to reduce potential financial losses.
+
 ![image Alt]
+https://github.com/riddhimasingh237/American-express-credit-risk-dashboard/blob/main/Risk%20analysis.png
+
+## ✅ Conclusion
+This project demonstrates how **SQL, Power BI, Power Query, and DAX** can be used together to transform raw customer data into meaningful business insights for credit risk analysis. By analyzing customer demographics, financial behavior, credit history, and repayment patterns, the dashboard identifies the key factors associated with credit default.
+The analysis reveals that variables such as **credit score, previous defaults, credit utilization, income level, and debt-to-income ratio** significantly influence customer risk. These insights enable financial institutions to identify high-risk customers, strengthen credit risk assessment, improve lending decisions, and prioritize customer monitoring.
+Beyond building interactive dashboards, this project showcases an end-to-end analytics workflow, including **data cleaning, SQL analysis, data modeling, KPI development, visualization, and business storytelling**. It reflects how data analytics can support informed decision-making and deliver measurable business value in the financial services industry.
+
 
 
 
