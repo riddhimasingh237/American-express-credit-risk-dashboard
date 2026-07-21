@@ -75,8 +75,7 @@ The **Customer Portfolio Overview** dashboard provides a comprehensive summary o
 ### Business Value
 
 This dashboard provides an overall understanding of the customer portfolio by highlighting customer demographics, financial capacity, creditworthiness, and ownership patterns. These insights help financial institutions identify customer segments, understand portfolio composition, and establish a strong foundation for further credit risk analysis.
-
-![image Alt]https://github.com/riddhimasingh237/American-express-credit-risk-dashboard/blob/main/Overview%20(2).png
+!image Alt [https://github.com/riddhimasingh237/American-express-credit-risk-dashboard/blob/main/Risk%20analysis.png]
 
 ## 📊 Dashboard – Page 2: Credit Risk & Default Analysis
 
